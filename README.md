@@ -1,5 +1,4 @@
-# nepy_mathRoulette
-Roulette bets in Matlab / Octave. <br />
-Notice that all files require an input number. It is self-explained in the code. <br />
-For the parameters given, each file takes 15 seconds in Matlab and 15 minutes in Octave (approx.). <br />
-An extended introduction is given in the following link: http://www.nepy.pe/home/educacion/programacion/aprendiendo-programacion-con-la-ruleta-y-respondiendo-si-estamos-solos/ (use Google Translate to read the content in Spanish).
+To read the instructions in english visit: [english version](https://github.com/statsconchris/math.roulette/tree/english) 
+<hr />
+
+Para leer las instrucciones en español visitar: [versión en español](https://github.com/statsconchris/math.roulette/tree/espanol)
