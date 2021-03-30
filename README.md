@@ -8,4 +8,4 @@ Existen 3 archivos:
 3. rouletteMartingale.m : Se usa la estrategia de Martingale.
 
 Todos los archivos requieren un valor de entrada. Los detalles aparecen explicados en el mismo código.
-Para los parámetros dados, cada archivo toma aproximadamente 15 segundos en Matlab y más de 5 minutos en Octave. 
+Para los parámetros dados (laps = 1000000), cada archivo toma menos de 5 minutos en Matlab y entre 15 y 60 minutos en Octave. Para reducir el tiempo considerar valores más pequeños para "laps".
