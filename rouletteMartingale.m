@@ -44,8 +44,8 @@ end
 figure;
 subplot(1,2,1)
 bar(sum_types)
-xlabel('Tipo de Apuesta') 
-ylabel('Número de veces') 
+xlabel('Bet type') 
+ylabel('Number of times') 
 set(gca,'xtick',1:13,'xticklabel',{'zero','even','odd','red','black','low','high','Vleft','Vmid','Vright','Hup','Hmid','Hdown'});
 set(gca, 'XTickLabelRotation', 90);
 
@@ -101,7 +101,7 @@ disp(message)
 subplot(1,2,2)
 bar(martingale);
 xlabel('j') 
-ylabel('Numero de veces') 
+ylabel('Number of times') 
 set(gca,'xtick',1:max_martingale,'xticklabel',{'0','','2','','4','','6','','8','','10',  ...
                                               '','12','','14','','16','','18','','20', ...
                                               '','22','','24','','26', '','28','','30'}); %modify xticklabel if max_martingale changes
