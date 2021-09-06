@@ -1,5 +1,5 @@
 ## math.roulette : Un código en Matlab / Octave (.m) para simular los resultados en el juego de la ruleta
-Para ver el funcionamiento del código y su análisis respectivo, ir al artículo: [nepy.pe/es/math.roulette.](http://www.nepy.pe/es/programacion/aprendiendo-programacion-con-la-ruleta-y-respondiendo-si-estamos-solos/) 
+Para ver el funcionamiento del código y su análisis respectivo, ir al artículo: [nepy.pe/es/math.roulette.](http://www.nepy.pe/es/programacion/juego/aprendiendo-programacion-con-la-ruleta-y-respondiendo-si-estamos-solos/) 
 
 Existen 3 archivos: 
 
