@@ -6,9 +6,9 @@ We provide the best strategy to win at roulette. This result is supported with a
 
 There are 3 files:
 
-1. `roulette-deterministic.m` : The bet is fixed, e.g., red color bet.
-2. `roulette-stochastic.m` : The bet is random, e.g., in each round a random number is chosen.
-3. `roulette-martingale.m` : The bet considers the Martingale strategy.
+1. `rouletteDeterministic.m` : The bet is fixed, e.g., red color bet.
+2. `rouletteStochastic.m` : The bet is random, e.g., in each round a random number is chosen.
+3. `rouletteMartingale.m` : The bet considers the Martingale strategy.
 
 Open the file in `Matlab` or `Octave` and run it.
 
